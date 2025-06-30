@@ -1,4 +1,4 @@
-# Zeiterfassung / Time Tracking
+# Time Tracking
 
 A lightweight Windows desktop application for tracking work hours with automatic hibernation detection and crash recovery.
 
@@ -20,13 +20,13 @@ The application provides a clean, intuitive interface with large buttons for eas
 ### Prerequisites
 - Windows 10/11
 - Visual Studio Build Tools with C++ support OR MinGW
-
+- Open "Developer Command Prompt for VS"
 ### Building from Source
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/alexk195/Zeiterfassung.git
-cd Zeiterfassung
+git clone https://github.com/Alexk-195/TimeRecording
+cd TimeRecording
 ```
 
 2. Compile using the provided batch file:
@@ -42,8 +42,8 @@ TimeRecording.exe
 ## Usage
 
 ### Basic Operation
-- Click **"Kommen"/"Arrive"** when starting work
-- Click **"Gehen"/"Leave"** when finishing work
+- Click **"Arrive"** when starting work
+- Click **"Leave"** when finishing work
 - The application automatically tracks active time and excludes hibernation periods
 
 ### Language Support

@@ -5,7 +5,6 @@
 #include <shellapi.h>
 #include <iostream>
 
-#define _DEBUG
 
 // Debug helper function for Windows GUI apps
 void DebugOutput(const std::string& message) {

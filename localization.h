@@ -54,13 +54,13 @@ private:
         translations["ABOUT_TITLE"]["en"] = L"About";
 
         // About dialog content
-        translations["ABOUT_TEXT"]["de"] = L"Zeiterfassung v2.0\n\n"
+        translations["ABOUT_TEXT"]["de"] = L"Time Recording\n\n"
                                           L"Erfasst die aktive Zeit am PC.\n"
-                                          L"https://github.com/alexk195/Zeiterfassung";
+                                          L"https://github.com/Alexk-195/TimeRecording";
 
-        translations["ABOUT_TEXT"]["en"] = L"Time Tracking v2.0\n\n"
+        translations["ABOUT_TEXT"]["en"] = L"Time Recording\n\n"
                                           L"Tracks active PC time.\n"
-                                          L"https://github.com/alexk195/Zeiterfassung";
+                                          L"https://github.com/Alexk-195/TimeRecording";
 
         // Summary headers
         translations["DAILY_SUMMARY_HEADER"]["de"] = L"=== TAEGLICHE ZUSAMMENFASSUNG ===";
